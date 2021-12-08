@@ -1,0 +1,21 @@
+<resources>
+	<string name="app_name">AndroidKeyPairGenerator</string>
+	
+	<string name="sign">Sign</string>
+	<string name="verify">Verify</string>
+	<string name="msg_public">Public key for encryption or to verify documents , data , files ( like apk ) .. etc </string>
+	<string name="msg_private">Private key for decryption or to sign documents , data , files ( like apk ).. etc </string>
+	<string name="signed_successful">Signed successful!!!</string>
+	<string name="keys_invalidated">Keys are invalidated.\n</string>
+	<string name="screen_lock">Secure lock screen hasn\'t set up.</string>
+	<string name="verify_fail">Verification failed</string>
+
+	<string name="verify_success">Verified successfully</string>
+	<string name="keystore_sign_and_verify">Keystore Sign And Verify</string>
+	<string name="keystore_sign_and_verify_msg">To be able to sign the data we need to confirm your identity. Please enter your pin/pattern or scan your fingerprint</string>
+	<string name="auth_fail">"Authentication failed."</string>
+	
+	
+	
+	
+</resources>
