@@ -15,7 +15,7 @@
 	<string name="verify_success">Verified successfully</string>
 	<string name="keystore_sign_and_verify">Keystore Sign And Verify</string>
 	<string name="keystore_sign_and_verify_msg">To be able to sign the data we need to confirm your identity. Please enter your pin/pattern or scan your fingerprint</string>
-	<string name="auth_fail">"Authentication failed."</string>
+	<string name="auth_fail">Authentication failed.</string>
 	
 	
 	
