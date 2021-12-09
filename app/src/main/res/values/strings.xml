@@ -1,5 +1,7 @@
 <resources>
-	<string name="app_name">AndroidKeyPairGenerator</string>
+	<string name="app_name">Android Key Pair Generator</string>
+	<string name="splash_title_main">Android Security Demo</string>
+	<string name="splash_title">Android Key Pair Generator</string>
 	
 	<string name="sign">Sign</string>
 	<string name="verify">Verify</string>

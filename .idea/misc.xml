@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/HP/Desktop/LearningNewSkills/WebTech1/KeyPairGenerator/AndroidKeyPairGenerator/app/src/main/res/drawable/ic_launcher_background.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/HP/Desktop/LearningNewSkills/WebTech1/KeyPairGenerator/AndroidKeyPairGenerator/app/src/main/res/drawable/splash_drawable_bg_new.xml" value="0.25052083333333336" />
         <entry key="..\:/Users/HP/Desktop/LearningNewSkills/WebTech1/KeyPairGenerator/AndroidKeyPairGenerator/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/HP/Desktop/LearningNewSkills/WebTech1/KeyPairGenerator/AndroidKeyPairGenerator/app/src/main/res/layout/activity_splash.xml" value="0.2318840579710145" />
       </map>
     </option>
   </component>
