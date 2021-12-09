@@ -1,6 +1,6 @@
 # Android Key Pair Generator 
 ## This project is demo application RSA key-pair on android platform
-____________________
+
 
 Screen Shot Notes : 
 1. Splash Screen
@@ -9,7 +9,7 @@ Screen Shot Notes :
 4. Signed successful
 5. Verified successfully
 
-____________________
+
 
 
 <p float="left">
@@ -19,7 +19,7 @@ ____________________
   <img src="https://user-images.githubusercontent.com/57435729/145392738-d1de017f-8793-4fcd-8020-2dfe4fb3ebf9.jpg" width="150" height="300">
   <img src="https://user-images.githubusercontent.com/57435729/145392753-2a88e13b-25a6-4eba-8cc1-caa327d8c2e5.jpg" width="150" height="300">
 </p>
-____________________
+
 
 In this project, I have explain how to create an RSA key pair on Android and use that key pair for sign and verify data. This RSA key pair will be stored in the Android KeyStore.
 
